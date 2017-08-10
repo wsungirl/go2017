@@ -1,5 +1,6 @@
-// CountStringsInFile.cpp : Defines the entry point for the console application.
-//
+// CountStringsInFile.cpp 
+// Compile the code using: g++ -o myWc CountStringsInFile.cpp
+// Usage: ./myWc -l /path/to/file
 
 //#include "stdafx.h"
 #include <iostream>
